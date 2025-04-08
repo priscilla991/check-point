@@ -11,7 +11,7 @@ Identification du second disque dur
 
 
 Vérification de la taille des partitions
-![]()
+![capture verification taille des partition](https://github.com/priscilla991/check-point/blob/main/Capture%20d%E2%80%99%C3%A9cran%201.png)
 
 
 Modification du fichier /etc/fstab
