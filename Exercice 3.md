@@ -16,5 +16,5 @@ echo "$texte"
 7. Dans le modèle OSI, les couches 2 et 3 sont respectivement:la couche de liaison de données et la couche réseau. La couche 2 est responsable de la transmission de données sur un support physique. La couche 3 Utilise des adresses IP pour acheminer les paquets de données entre différents réseaux. Les matériels incluent les routeurs (qui assurent la communication entre différents réseaux) et les pare-feu (qui filtrent le trafic réseau en fonction des règles IP).
 8. Équivalent PowerShell des commandes bash: cd==> Set-Location ; cp==>Copy-Item ; mkdir==>New-Item ; ls==>Get-ChildItem
 9. Dans une trame Ethernet, le payload désigne la partie des données qui contient l'information réelle envoyée par le protocole de niveau supérieur.
-10. 
+10. Les classes IP ont été largement remplacées par le CIDR pour plusieurs raisons : Avant le CIDR, on utilisait des classes fixes , si une entreprise avait besoin de 5 000 adresses par exemple, une classe C était trop petite et une classe B donnait trop d’adresses gaspillées. le CIDR introduit en 1993 permet de ne plus se limiter à des tailles prédéfinies en utilisant des masques de sous-réseau variables. Avec le CIDR, on a moins de gaspillage et il prolonge la durée de vie d’IPv4.
 
