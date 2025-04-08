@@ -23,4 +23,4 @@ Vérification de la syntaxe du fichier /etc/fstab
 ![](https://github.com/priscilla991/check-point/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-08%2018-41-53.png)
 
 Autres captures importantes
-[]()
+![](https://github.com/priscilla991/check-point/blob/main/Capture%20d%E2%80%99%C3%A9cran%20du%202025-04-07%2012-36-49.png)
